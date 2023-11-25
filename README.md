@@ -1,5 +1,5 @@
 # TV-Easy-FR
-APK Chaine TNT et plus france Pour android tv, tablette mobile.
+APK Chaine TNT et plus France Pour android tv, tablette mobile.
 Telecharger l'apk et installer sur votre Android (via une clef usb et gardien tv ou autre...).
 
 APK non signer ( sa me sert a rien de la signer a part si je veux la mettre sur le play store! )
