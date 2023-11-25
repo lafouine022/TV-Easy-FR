@@ -6,7 +6,7 @@ APK non signé ( sa me sert a rien de la signer a part si je veux la mettre sur 
 Vous aurez donc droit a un message de prévention!
 
 
-Le fonctionnement des chaine Tv est independant de moi^^.
+Le bon fonctionnement des chaines Tv est independant de moi^^.
 La liste de chaines évolus...
 
 ![mobile](https://github.com/lafouine022/TV-Easy-FR/assets/119431960/63c71a80-9ccf-4308-9e8e-fabd6c7b003c)
